@@ -28,7 +28,7 @@ Graduate Computer Science Student at New York University
 
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omkar-waikar&limit=5&theme=neon&combine_all_yearly_contributions=true&v=8822)
+![](https://github-stats-extended.vercel.app/api?username=omkar-waikar&limit=5&theme=neon&combine_all_yearly_contributions=true&v=8822)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
