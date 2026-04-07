@@ -16,24 +16,24 @@ Graduate Computer Science Student at New York University
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-A-Waikar/GithubActions/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-A-Waikar/GithubActions/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Omkar-A-Waikar/Omkar-A-Waikar/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-Waikar/GithubActions/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-Waikar/GithubActions/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Omkar-Waikar/Omkar-Waikar/output/github-snake.svg" />
 </picture>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omkar-a-waikar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omkar-a-waikar&theme=highcontrast&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-a-waikar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=omkar-waikar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omkar-waikar&theme=highcontrast&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-waikar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omkar-a-waikar&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=omkar-waikar&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omkar-a-waikar&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=omkar-waikar&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
